@@ -1,4 +1,4 @@
 helps
 =====
 
-iOS Helps
+iOS Help tips and tricks
