@@ -1,0 +1,12 @@
+Add Code Snippets:
+
+1) Type in the code you want to create a snippet for.
+2) Highlight the code.
+3) Drag the highlighted code and drop it on the Snippet utility section.
+4) Click the snippet, a popup caption dialog will appear. Edit the title, description, and shortcut.
+
+NOTE: You can use prompters denoted by <#prompterName#> that will give blue bubbles that you can tab to, and replace with "parameters" in your source. For example:
+
+NSDictionary *<#varibleName#> = [[NSBundle mainBundle] infoDictionary];
+
+Also, to delete your snippets, click to highlight in the snippet library, and press the "Delete" key.
